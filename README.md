@@ -2,7 +2,15 @@
 # A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images
 An official PyTorch implementation of the [LymphomaMIL](https://github.com/RaoUmer/LymphomaMIL) pipeline as described in the paper [A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/pdf/2512.14640).
 
-## Pipeline Overview
+### Multicenter Lymphoma Benchmark
+<p align="center">
+  <img height="700" src="assests/multicenter_bm.png">
+</p>
+
+### Pipeline Overview
+<p align="center">
+  <img height="700" src="assests/lymphomamil_pipeline.png">
+</p>
 
 ### 1. Tissue Segmentation and Patch Extraction
 Our HE-stained whole slide images contain pen marks and artifacts, i.e., blurring, compression, water bubbles. In our pipeline, we use [Trident](https://github.com/mahmoodlab/TRIDENT) for both tissue segmentation and patch extraction; it employs a DeepLabV3-based segmentation model that provides more robust and stain-agnostic tissue detection and segmentation, and further extract non-overlapping patches from a whole slide image. 
