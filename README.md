@@ -163,7 +163,7 @@ python create_heatmaps.py
 ## Requirements
 Please refer to the corresponding `environment.yml` for software dependencies and environment setup.
 
-#### Citation
+## Citation
     @InProceedings{Umer2026_CVPRWorkshops,
         author = {Rao Muhammad Umer, Daniel Sens, Jonathan Noll, Sohom Dey, Christian Matek, Lukas Wolfseher,
         Rainer Spang, Ralf Huss, Johannes Raffler, Sarah Reinke, Ario Sadafi, Wolfram Klapper, Katja Steiger,
