@@ -164,12 +164,11 @@ python create_heatmaps.py
 Please refer to the corresponding `environment.yml` for software dependencies and environment setup.
 
 ## Citation
-    @InProceedings{Umer2026_CVPRWorkshops,
-        author = {Rao Muhammad Umer, Daniel Sens, Jonathan Noll, Sohom Dey, Christian Matek, Lukas Wolfseher,
-        Rainer Spang, Ralf Huss, Johannes Raffler, Sarah Reinke, Ario Sadafi, Wolfram Klapper, Katja Steiger,
-        Kristina Schwamborn, Carsten Marr},
-        title = {A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images},
-        booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-        month = {June},
-        year = {2026}
-        }
+        @InProceedings{Umer_2026_CVPR,
+        author    = {Umer, Rao Muhammad and Sens, Daniel and Noll, Jonathan and Dey, Sohom and Matek, Christian and Wolfseher, Lukas and Spang, Rainer and Huss, Ralf and Raffler, Johannes and Reinke, Sarah and Sadafi, Ario and Klapper, Wolfram and Steiger, Katja and Schwamborn, Kristina and Marr, Carsten},
+        title     = {A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images},
+        booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+        month     = {June},
+        year      = {2026},
+        pages     = {6825-6834}
+       }
