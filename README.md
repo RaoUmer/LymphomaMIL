@@ -1,7 +1,7 @@
-[![RepoReady](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.repoready.ai%2Fapi%2Fbadges%2F45cb2d49-082b-40c4-bff1-5f1bc33d6c8e%2Fbadge)](https://app.repoready.ai/shared/badges/45cb2d49-082b-40c4-bff1-5f1bc33d6c8e)
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LymphomaMIL&fontAlign=45&fontAlignY=40&color=gradient)
 # A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images
+[![RepoReady](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.repoready.ai%2Fapi%2Fbadges%2F45cb2d49-082b-40c4-bff1-5f1bc33d6c8e%2Fbadge)](https://app.repoready.ai/shared/badges/45cb2d49-082b-40c4-bff1-5f1bc33d6c8e)
+
 An official PyTorch implementation of the [LymphomaMIL](https://github.com/RaoUmer/LymphomaMIL) pipeline as described in the paper [A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/pdf/2512.14640).
 
 ### Multicenter Lymphoma Benchmark
